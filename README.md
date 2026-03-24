@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=2600&pause=700&color=00D9FF&center=true&vCenter=true&width=900&lines=Full%E2%80%91stack+Engineer+%E2%80%94+TypeScript%2FReact%2FNode;Design+for+clarity.+Ship+for+impact.;Practical+architecture%2C+clean+UX%2C+reliable+systems." alt="Typing" />
 </p>
 
-
+ <img style="border-radius: 10px;" src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif'>
 
 ---
 
