@@ -61,9 +61,11 @@ I build products with a simple loop: understand the problem, cut the noise, and 
 
 ## 📊 Signals I watch
 
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardyx07&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" />
-</p> -->
+<div align="center">
+<a href="https://github.com/hardyx07">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardyx07&bg_color=0a0118&color=7c4dff&line=a68aff&point=ffffff&area=true&hide_border=true&area_color=2d1b5e" alt="Activity"/>
+</a>
+</div>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hardyx07&theme=radical" />
