@@ -16,9 +16,9 @@
 
 I build products with a simple loop: understand the problem, cut the noise, and ship clean software that users can trust. As a full‑stack engineer, I move from interface to infrastructure with the same question in mind: how do we make this simpler, faster, and easier to evolve tomorrow?
 
-- **Core stack**: TypeScript • React • Node.js • Express • MongoDB
-- **Strengths**: crisp UI, reliable APIs, practical architecture, and end‑to‑end ownership
-- **Exploring**: system design patterns, performance profiling, robust API contracts
+- **Core stack**: TypeScript • Next.js • React • FastAPI • Node.js • PostgreSQL • MongoDB • Redis • Qdrant
+- **Strengths**: full-stack AI product development, hybrid RAG pipelines, crisp UI systems, reliable APIs, end-to-end ownership from PRD to deployment
+- **Exploring**: system design patterns, DevOps & self-hosted infrastructure, Chrome extension architecture (MV3), performance profiling & semantic caching
 
 > I value clarity over cleverness, small fast iterations over big promises, and code that explains itself.
 
