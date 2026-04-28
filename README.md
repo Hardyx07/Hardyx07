@@ -36,6 +36,8 @@ I build products with a simple loop: understand the problem, cut the noise, and 
 
 ---
 
+
+
 ## 🧰 Toolbox
 
 <p align="center">
@@ -58,6 +60,12 @@ I build products with a simple loop: understand the problem, cut the noise, and 
 </p>
 
 ---
+
+### 🎖️ GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Hardyx07&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7&border_color=00D9FF" />
+</div>
+
 
 ## 📊 Signals I watch
 
